@@ -1,5 +1,5 @@
 {
-  "name": "workbox-lab",
+  "name": "quicklink-news",
   "version": "1.0.0",
   "description": "A demo of using Quicklink and Workbox together",
   "main": "index.js",
